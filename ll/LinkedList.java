@@ -40,14 +40,13 @@ public class LinkedList {
 
     public void getTail() {
         if (head == null) {
-            System.out.println("Tail: null");
+            System.out.println("Tail : null");
         } else {
-            System.out.println("Tail: " + tail.value);
+            System.out.println("Tail : " + tail.value);
         }
     }
 
     public void getLength() {
         System.out.println("Length: " + length);
     }
-
 }

@@ -2,7 +2,8 @@ package src.ll;
 
 public class Main {
     public static void main(String[] args){
-        System.out.println("set:");
+        System.out.println("insert:");
+        System.out.println("--------------------------------- ");
         LinkedList ll1=new LinkedList(1);
         LinkedList ll2=new LinkedList(5);
         ll1.append(2);
@@ -12,10 +13,12 @@ public class Main {
         ll2.prepend(4);
         ll1.prepend(0);
         ll1.printList();
-        System.out.println("setting index 2 value to 99: "+ll1.set(2,99));
+        System.out.println("insert 888 at index 0 : "+ll1.insert(0,888));
         ll1.printList();
+        System.out.println("------------------ ");
         ll2.printList();
-        System.out.println("setting index 1 value to 99: "+ll2.set(1,99));
+        System.out.println("insert 888 at index 1 : "+ll2.insert(1,888));
         ll2.printList();
+        System.out.println("--------------------------------- ");
     }
 }

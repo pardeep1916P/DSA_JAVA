@@ -115,5 +115,24 @@ public class LinkedList{
         return temp;
     }
 
+    //remove last node
+    public Node removeLast(){
+        Node temp=head;
+        if(head==null){
+            return null;
+        } else if (head==tail) {
+            head=null;
+            tail=null;
+        }else{
+            while(temp.next!=tail){
+                temp=temp.next;
+            }
+            tail=temp;
+            temp=temp.next;
+            tail.next=null;
+        }
+        length--;
+        return temp;
+    }
 
 }

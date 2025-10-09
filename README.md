@@ -1,3 +1,2 @@
-LinkedList:
-- **Constructor**
-- ****
+LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set)
+

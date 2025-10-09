@@ -1,4 +1,4 @@
-package src.ll;
+package src.ll.concept;
 
 public class LinkedList{
     class Node{

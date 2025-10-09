@@ -1,2 +1,2 @@
-LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set)
+LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert)
 

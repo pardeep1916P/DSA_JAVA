@@ -3,7 +3,7 @@ package src.ll.concept;
 public class Main {
     public static void main(String[] args){
         System.out.println("remove:");
-        System.out.println("--------------------------------- ");
+        System.out.println("-------------------------------- ");
         LinkedList ll1=new LinkedList(1);
         LinkedList ll2=new LinkedList(5);
         ll1.append(2);

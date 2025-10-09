@@ -100,5 +100,20 @@ public class LinkedList{
         length++;
     }
 
+    //remove first node
+    public Node removeFirst(){
+        Node temp=head;
+        if(head==null) return null;
+        else if (head == tail) {
+            head=null;
+            tail=null;
+        }else{
+            head=head.next;
+            temp.next=null;
+        }
+        length--;
+        return temp;
+    }
+
 
 }

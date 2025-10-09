@@ -145,4 +145,13 @@ public class LinkedList{
         return temp;
     }
 
+    //set value at an index
+    public boolean set(int index,int value){
+        Node temp= get(index);
+        if (temp!=null){
+            temp.value=value;
+            return true;
+        }
+        return false;
+    }
 }

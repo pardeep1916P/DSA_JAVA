@@ -100,58 +100,5 @@ public class LinkedList{
         length++;
     }
 
-    //remove first node
-    public Node removeFirst(){
-        Node temp=head;
-        if(head==null) return null;
-        else if (head == tail) {
-            head=null;
-            tail=null;
-        }else{
-            head=head.next;
-            temp.next=null;
-        }
-        length--;
-        return temp;
-    }
 
-    //remove last node
-    public Node removeLast(){
-        Node temp=head;
-        if(head==null){
-            return null;
-        } else if (head==tail) {
-            head=null;
-            tail=null;
-        }else{
-            while(temp.next!=tail){
-                temp=temp.next;
-            }
-            tail=temp;
-            temp=temp.next;
-            tail.next=null;
-        }
-        length--;
-        return temp;
-    }
-
-    // get node by index
-    public Node get(int index){
-        if(index<0 || index>length) return null;
-        Node temp= head;
-        for(int i=0;i<index;i++){
-            temp=temp.next;
-        }
-        return temp;
-    }
-
-    //set value
-    public boolean set(int index,int value){
-        Node temp= get(index);
-        if (temp!=null){
-            temp.value=value;
-            return true;
-        }
-        return false;
-    }
 }

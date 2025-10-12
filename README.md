@@ -5,4 +5,5 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **reversePrint - HR**
 - **reverse - HR**
 - **getNode - HR**
-- **insertNodeAtPosition**
+- **insertNodeAtPosition - HR**
+- **removeDuplicates - HR**

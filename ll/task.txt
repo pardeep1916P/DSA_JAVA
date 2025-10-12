@@ -1,0 +1,62 @@
+LINKED LIST PROBLEMS - HACKERRANK
+
+This file contains a list of linked list problems categorized by difficulty level.
+
+================================================================================
+EASY
+================================================================================
+1. printLinkedList
+   - Description: Traverse and print all elements in a linked list
+   - Concepts: Basic traversal
+   - File: ll/problems/printLinkedList.java
+
+2. insertNodeAtHead
+   - Description: Insert a new node at the beginning of a linked list
+   - Concepts: Basic insertion, head pointer manipulation
+   - File: ll/problems/insertNodeAtHead.java
+
+3. insertNodeAtTail
+   - Description: Insert a new node at the end of a linked list
+   - Concepts: Basic insertion, traversal to find tail
+   - File: ll/problems/insertNodeAtTail.java
+
+================================================================================
+MEDIUM
+================================================================================
+4. reversePrint
+   - Description: Print linked list elements in reverse order
+   - Concepts: Recursion
+   - File: ll/problems/reversePrint.java
+
+5. reverse
+   - Description: Reverse a linked list
+   - Concepts: Pointer manipulation, iterative approach
+   - File: ll/problems/reverse.java
+
+6. removeDuplicates
+   - Description: Remove duplicate nodes from a sorted linked list
+   - Concepts: Single pass traversal, pointer manipulation
+   - File: ll/problems/removeDuplicates.java
+
+7. insertNodeAtPosition
+   - Description: Insert a node at a specific position in a linked list
+   - Concepts: Position-based insertion, edge case handling, helper methods
+   - File: ll/problems/insertNodeAtPosition.java
+
+================================================================================
+HARD
+================================================================================
+8. getNode
+   - Description: Get the value of a node at a given position from the tail
+   - Concepts: Two-pointer technique, fast-slow pointer approach
+   - File: ll/problems/getNode.java
+
+================================================================================
+SUMMARY
+================================================================================
+Total Problems: 8
+Easy: 3 problems
+Medium: 4 problems
+Hard: 1 problem
+
+All problems are from HackerRank (HR)

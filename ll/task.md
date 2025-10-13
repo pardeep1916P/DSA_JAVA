@@ -1,13 +1,13 @@
 # Linked List Problems (LeetCode & HackerRank)
 
 ## Easy
-- Print Linked List (HackerRank)
-- Insert Node at Head (HackerRank)
-- Insert Node at Tail (HackerRank)
-- Get Node Value (HackerRank)
-- Delete a Node (HackerRank)
-- Remove Duplicates from Sorted List (LeetCode)
-- Reverse Print (HackerRank)
+- Print Linked List (HackerRank).
+- Insert Node at Head (HackerRank).
+- Insert Node at Tail (HackerRank).
+- Get Node Value (HackerRank).
+- Delete a Node (HackerRank).
+- Remove Duplicates from Sorted List (LeetCode).
+- Reverse Print (HackerRank).
 - Remove Linked List Elements (LeetCode)
 - Merge Two Sorted Lists (LeetCode)
 - Palindrome Linked List (LeetCode)

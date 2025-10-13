@@ -7,3 +7,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **getNode - HR**
 - **insertNodeAtPosition - HR**
 - **removeDuplicates - HR**
+- **removeNode - HR**

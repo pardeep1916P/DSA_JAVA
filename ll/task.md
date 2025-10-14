@@ -9,7 +9,7 @@
 - Remove Duplicates from Sorted List (LeetCode).
 - Reverse Print (HackerRank).
 - Remove Linked List Elements (LeetCode).
-- Merge Two Sorted Lists (LeetCode)
+- Merge Two Sorted Lists (LeetCode).
 - Palindrome Linked List (LeetCode)
 
 ## Intermediate

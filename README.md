@@ -9,4 +9,5 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **removeDuplicates - HR**
 - **removeNode - HR**
 - **83)RemoveDuplicatesSortedList - LeetCode**
-- **203)removeElements - Leetcode**
+- **203)removeElements - LeetCode**
+- **21)mergeTwoLists - LeetCode**

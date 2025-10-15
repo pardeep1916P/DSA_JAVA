@@ -14,7 +14,7 @@
 
 ## Intermediate
 - Insert Node at Position (HackerRank).
-- Reverse Linked List (LeetCode)
+- Reverse Linked List (LeetCode).
 - Remove Duplicates from Unsorted List (LeetCode)
 - Merge Two Sorted Lists (LeetCode)
 - Detect Cycle in Linked List (LeetCode)

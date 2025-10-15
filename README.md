@@ -12,3 +12,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **203)removeElements - LeetCode**
 - **21)mergeTwoLists - LeetCode**
 - **234)isPalindrome - LeetCode**
+- **206)reverseList - LeetCode**

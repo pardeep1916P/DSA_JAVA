@@ -10,10 +10,10 @@
 - Reverse Print (HackerRank).
 - Remove Linked List Elements (LeetCode).
 - Merge Two Sorted Lists (LeetCode).
-- Palindrome Linked List (LeetCode)
+- Palindrome Linked List (LeetCode).
 
 ## Intermediate
-- Insert Node at Position (HackerRank)
+- Insert Node at Position (HackerRank).
 - Reverse Linked List (LeetCode)
 - Remove Duplicates from Unsorted List (LeetCode)
 - Merge Two Sorted Lists (LeetCode)

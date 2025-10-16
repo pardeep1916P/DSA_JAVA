@@ -14,3 +14,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **234)isPalindrome - LeetCode**
 - **206)reverseList - LeetCode**
 - **1836)removeDuplicatesUnsorted - LeetCode**
+- **141)LinkedListCycle - LeetCode**

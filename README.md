@@ -16,3 +16,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **1836)removeDuplicatesUnsorted - LeetCode**
 - **141)LinkedListCycle - LeetCode**
 - **140)getIntersectionNode - Leetcode**
+- **328)oddEvenList - LeetCode**

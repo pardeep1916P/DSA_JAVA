@@ -20,7 +20,7 @@
 - Intersection of Two Linked Lists (LeetCode).
 - Odd Even Linked List (LeetCode).
 - Delete Node in a Linked List (LeetCode).
-- Remove Nth Node From End of List (LeetCode)
+- Remove Nth Node From End of List (LeetCode).
 - Add Two Numbers (LeetCode)
 - Split a Linked List in Parts (LeetCode)
 

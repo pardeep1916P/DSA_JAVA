@@ -22,7 +22,7 @@
 - Delete Node in a Linked List (LeetCode)✅
 - Remove Nth Node From End of List (LeetCode)✅
 - Add Two Numbers (LeetCode)✅
-- Split a Linked List in Parts (LeetCode)
+- Split a Linked List in Parts (LeetCode)✅
 
 ## Hard
 - Reverse Nodes in k-Group (LeetCode)

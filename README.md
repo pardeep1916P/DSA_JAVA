@@ -21,3 +21,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **19)removeNthFromEnd - LeetCode**
 - **160)getIntersectionNode_effecient - LeetCode**
 - **2)addTwoNumbers - LeetCode**
+- **725)splitListToParts - LeetCode**

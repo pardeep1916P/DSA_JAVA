@@ -25,8 +25,8 @@
 - Split a Linked List in Parts (LeetCode)✅
 
 ## Hard
-- Reverse Nodes in k-Group (LeetCode)
-- Copy List with Random Pointer (LeetCode)
+- Reverse Nodes in k-Group (LeetCode)✅
+- Copy List with Random Pointer (LeetCode)✅
 - LRU Cache (LeetCode)
 - Flatten a Multilevel Doubly Linked List (LeetCode)
 - Sort List (LeetCode)

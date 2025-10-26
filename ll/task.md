@@ -27,7 +27,7 @@
 ## Hard
 - Reverse Nodes in k-Group (LeetCode)✅
 - Copy List with Random Pointer (LeetCode)✅
-- LRU Cache (LeetCode)
+- LRU Cache (LeetCode)✅
 - Flatten a Multilevel Doubly Linked List (LeetCode)
 - Sort List (LeetCode)
 - Merge k Sorted Lists (LeetCode)

@@ -24,3 +24,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **725)splitListToParts - LeetCode**
 - **25)reverseKGroup - LeetCode**
 - **138)copyRandomList - LeetCode**
+- **146)LRUCache - LeetCode**

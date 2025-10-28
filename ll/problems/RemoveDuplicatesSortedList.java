@@ -1,5 +1,5 @@
 package src.ll.problems;
-
+//This is a Remove Duplicates from a sorted list in java
     public ListNode deleteDuplicates(ListNode head) {
         if(head==null) return head;
         ListNode temp=head;

@@ -30,7 +30,7 @@
 - LRU Cache (LeetCode)✅
 - Flatten a Multilevel Doubly Linked List (LeetCode)✅
 - Sort List (LeetCode)✅
-- Merge k Sorted Lists (LeetCode)
+- Merge k Sorted Lists (LeetCode)✅
 - Linked List Cycle II (LeetCode)
 - Reorder List (LeetCode)
 - Find the Duplicate Number (LeetCode)

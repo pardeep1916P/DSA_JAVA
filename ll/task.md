@@ -31,7 +31,7 @@
 - Flatten a Multilevel Doubly Linked List (LeetCode)✅
 - Sort List (LeetCode)✅
 - Merge k Sorted Lists (LeetCode)✅
-- Linked List Cycle II (LeetCode)
+- Linked List Cycle II (LeetCode)✅
 - Reorder List (LeetCode)
 - Find the Duplicate Number (LeetCode)
 - Remove Zero Sum Consecutive Nodes from Linked List (LeetCode)

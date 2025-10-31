@@ -29,3 +29,4 @@ LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,rem
 - **148)sortList - LeetCode**
 - **23)mergeKLists - LeetCode**
 - **23)mergeKLists_recursion - LeetCode**
+- **142)detectCycle - LeetCode**

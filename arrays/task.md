@@ -1,7 +1,7 @@
 # Array Problems (LeetCode & HackerRank)
 
 ## EASY
-- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) *  
+- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem))✅ *  
 - Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem)) *  
 - Delete a Node ([HackerRank](https://www.hackerrank.com/challenges/delete-a-node/problem)) *  
 - Second Largest Element in Array ([HackerRank](https://www.hackerrank.com/))  

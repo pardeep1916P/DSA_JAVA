@@ -1,5 +1,6 @@
-Arrays:  (01/59)
-- **Reverse an Array - HR** 
+Arrays:  (02/59)
+- **reverseArray - HR** 
+- **rotateLeft - HR**
 
 
 

@@ -60,7 +60,7 @@ Arrays: (01/59)
 
 
 
-LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
+LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove) (28/30)
 - **printLinkedList - HR**
 - **insertNodeAtTail - HR**
 - **insertNodeAtHead - HR**

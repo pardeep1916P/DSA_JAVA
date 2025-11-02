@@ -1,9 +1,9 @@
 # Array Problems (LeetCode & HackerRank)
 
 ## EASY
-- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) * ✅
-- Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem)) * ✅
-- Delete a Node ([HackerRank](https://www.hackerrank.com/challenges/delete-a-node/problem)) *  
+- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) *  ✅
+- Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem)) *  ✅
+- Dynamic Array ([HackerRank](https://www.hackerrank.com/challenges/dynamic-array/problem))  
 - Second Largest Element in Array ([HackerRank](https://www.hackerrank.com/))  
 - Two Sum ([LeetCode #1](https://leetcode.com/problems/two-sum/))  
 - Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/))  

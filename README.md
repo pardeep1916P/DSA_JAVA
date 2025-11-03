@@ -1,7 +1,8 @@
-Arrays:  (03/56)
+Arrays:  (04/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
+- **twoSum - L1**
 
 
 

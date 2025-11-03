@@ -1,10 +1,11 @@
-Arrays:  (06/56)
+Arrays:  (07/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
 - **twoSum - L1**
 - **containsDuplicate - L217**
 - **intersection - L349**
+- **intersect - L350**
 
 
 

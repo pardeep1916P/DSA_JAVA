@@ -1,4 +1,4 @@
-Arrays:  (07/56)
+Arrays:  (09/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -6,6 +6,8 @@ Arrays:  (07/56)
 - **containsDuplicate - L217**
 - **intersection - L349**
 - **intersect - L350**
+- **removeDuplicates - L26**
+- **removeElement - L27**
 
 
 

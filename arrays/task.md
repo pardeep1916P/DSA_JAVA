@@ -6,7 +6,7 @@
 - Dynamic Array ([HackerRank](https://www.hackerrank.com/challenges/dynamic-array/problem)) 
 - Third Maximum Number ([LeetCode #414](https://leetcode.com/problems/third-maximum-number/)) ✅
 - Two Sum ([LeetCode #1](https://leetcode.com/problems/two-sum/)) ✅
-- Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/))
+- Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/)) ✅
 - Intersection of Two Arrays ([LeetCode #349](https://leetcode.com/problems/intersection-of-two-arrays/))
 - Intersection of Two Arrays II ([LeetCode #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/))
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-a-sorted-array/))

@@ -1,4 +1,4 @@
-Arrays:  (10/56)
+Arrays:  (11/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -9,6 +9,7 @@ Arrays:  (10/56)
 - **removeDuplicates - L26**
 - **removeElement - L27**
 - **moveZeroes - L283**
+- **plusOne - L66**
 
 
 

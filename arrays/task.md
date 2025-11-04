@@ -1,4 +1,4 @@
-# Array Problems (TCS NQT + Coding Round Prep in Java)
+# Array Problems 
 
 ## EASY
 - Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) ✅
@@ -12,7 +12,7 @@
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))✅
 - Remove Element ([LeetCode #27](https://leetcode.com/problems/remove-element/)) ✅
 - Move Zeroes ([LeetCode #283](https://leetcode.com/problems/move-zeroes/)) ✅
-- Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/))
+- Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/))✅
 - Single Number ([LeetCode #136](https://leetcode.com/problems/single-number/))
 - Majority Element ([LeetCode #169](https://leetcode.com/problems/majority-element/))
 - Best Time to Buy and Sell Stock I ([LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))

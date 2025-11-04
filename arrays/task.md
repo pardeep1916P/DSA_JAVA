@@ -14,7 +14,7 @@
 - Move Zeroes ([LeetCode #283](https://leetcode.com/problems/move-zeroes/)) ✅
 - Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/)) ✅
 - Single Number ([LeetCode #136](https://leetcode.com/problems/single-number/)) ✅
-- Majority Element ([LeetCode #169](https://leetcode.com/problems/majority-element/))
+- Majority Element ([LeetCode #169](https://leetcode.com/problems/majority-element/)) ✅
 - Best Time to Buy and Sell Stock I ([LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))
 - Max Consecutive Ones ([LeetCode #485](https://leetcode.com/problems/max-consecutive-ones/))
 - Find the Duplicate Number ([LeetCode #287](https://leetcode.com/problems/find-the-duplicate-number/))

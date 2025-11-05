@@ -1,4 +1,4 @@
-Arrays:  (13/56)
+Arrays:  (14/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -12,6 +12,7 @@ Arrays:  (13/56)
 - **plusOne - L66**
 - **singleNumber - L136**
 - **majorityElement - L169**
+- **maxProfit - L121**
 
 
 

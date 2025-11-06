@@ -1,4 +1,4 @@
-Arrays:  (16/56)
+Arrays:  (17/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -15,6 +15,7 @@ Arrays:  (16/56)
 - **maxProfit - L121**
 - **findMaxConsecutiveOnes - L485**
 - **findDuplicate - L287**
+- **rotate - L189**
 
 
 

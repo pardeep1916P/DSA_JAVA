@@ -19,7 +19,7 @@
 - Max Consecutive Ones ([LeetCode #485](https://leetcode.com/problems/max-consecutive-ones/)) ✅
 - Find the Duplicate Number ([LeetCode #287](https://leetcode.com/problems/find-the-duplicate-number/)) ✅
 - Rotate Array ([LeetCode #189](https://leetcode.com/problems/rotate-array/)) ✅
-- Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/))
+- Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/)) ✅
 - Squares of a Sorted Array ([LeetCode #977](https://leetcode.com/problems/squares-of-a-sorted-array/))
 
 ---

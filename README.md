@@ -1,4 +1,4 @@
-Arrays:  (19/56)
+Arrays:  (20/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -18,6 +18,7 @@ Arrays:  (19/56)
 - **rotate - L189**
 - **missingNumber - L268**
 - **sortedSquares - L977**
+- **productExceptSelf - L238**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

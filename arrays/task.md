@@ -38,7 +38,7 @@
 - Merge Intervals ([LeetCode #56](https://leetcode.com/problems/merge-intervals/))
 - Container With Most Water ([LeetCode #11](https://leetcode.com/problems/container-with-most-water/))
 - Longest Consecutive Sequence ([LeetCode #128](https://leetcode.com/problems/longest-consecutive-sequence/))
-- Kth Largest Element in an Array ([LeetCode #215](https://leetcode.com/problems/kth-largest-element-in-an-array/))
+- Kth Largest Element in an Array ([LeetCode #215](https://leetcode.com/problems/kth-largest-element-in-an-array/)) ✅
 - Find Pivot Index ([LeetCode #724](https://leetcode.com/problems/find-pivot-index/))
 - Find Peak Element ([LeetCode #162](https://leetcode.com/problems/find-peak-element/))
 - Majority Element II ([LeetCode #229](https://leetcode.com/problems/majority-element-ii/))

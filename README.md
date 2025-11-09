@@ -1,4 +1,4 @@
-Arrays:  (20/56)
+Arrays:  (21/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -19,6 +19,7 @@ Arrays:  (20/56)
 - **missingNumber - L268**
 - **sortedSquares - L977**
 - **productExceptSelf - L238**
+- **findKthLargest - L215**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

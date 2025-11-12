@@ -40,7 +40,7 @@
 - Longest Consecutive Sequence ([LeetCode #128](https://leetcode.com/problems/longest-consecutive-sequence/))
 - Kth Largest Element in an Array ([LeetCode #215](https://leetcode.com/problems/kth-largest-element-in-an-array/)) ✅
 - Find Pivot Index ([LeetCode #724](https://leetcode.com/problems/find-pivot-index/))
-- Find Peak Element ([LeetCode #162](https://leetcode.com/problems/find-peak-element/))
+- Find Peak Element ([LeetCode #162](https://leetcode.com/problems/find-peak-element/)) ✅
 - Majority Element II ([LeetCode #229](https://leetcode.com/problems/majority-element-ii/))
 - Best Time to Buy and Sell Stock II ([LeetCode #122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/))
 - Search Insert Position ([LeetCode #35](https://leetcode.com/problems/search-insert-position/))

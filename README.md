@@ -1,4 +1,4 @@
-Arrays:  (23/56)
+Arrays:  (24/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -21,8 +21,9 @@ Arrays:  (23/56)
 - **productExceptSelf - L238**
 - **findKthLargest - L215**
 - **threeSum - L15**
-- **findDuplicates_mySolution - L442**
+- - **findDuplicates_mySolution - L442**
 - **findDuplicates_efficient - L442**
+- **findPeakElement - L162**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

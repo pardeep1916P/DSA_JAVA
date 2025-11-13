@@ -1,4 +1,4 @@
-Arrays:  (24/56)
+Arrays:  (25/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -24,6 +24,7 @@ Arrays:  (24/56)
 - - **findDuplicates_mySolution - L442**
 - **findDuplicates_efficient - L442**
 - **findPeakElement - L162**
+- **majorityElement2 - L229**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

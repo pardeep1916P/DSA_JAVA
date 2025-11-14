@@ -26,6 +26,7 @@ Arrays:  (26/56)
 - **findPeakElement - L162**
 - **majorityElement2 - L229**
 - **pivotIndex - L724**
+- **pivotIndex_clean - L724 -**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

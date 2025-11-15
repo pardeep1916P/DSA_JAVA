@@ -1,4 +1,4 @@
-Arrays:  (26/56)
+Arrays:  (28/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -27,6 +27,7 @@ Arrays:  (26/56)
 - **majorityElement2 - L229**
 - **pivotIndex - L724**
 - **pivotIndex_clean - L724 -**
+- **maxProfit - L122**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

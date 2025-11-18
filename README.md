@@ -29,7 +29,8 @@ Arrays:  (30/56)
 - **pivotIndex_clean - L724 -**
 - **maxProfit - L122**
 - **searchInsert - L35**
--  -**sortColors_mySolution - L75**
+- - **sortColors_mySolution - L75**
+- **sortColors_efficient - L75**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

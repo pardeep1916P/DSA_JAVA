@@ -1,4 +1,4 @@
-Arrays:  (32/56)
+Arrays:  (33/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -33,6 +33,7 @@ Arrays:  (32/56)
 - **sortColors_efficient - L75**
 - **longestConsecutive - L128**
 - **maxArea - L11**
+- **merge - L56***
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

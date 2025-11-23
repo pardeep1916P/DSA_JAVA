@@ -35,7 +35,7 @@
 - Sort Colors ([LeetCode #75](https://leetcode.com/problems/sort-colors/)) ✅
 - Partition Array / Array Partition I ([LeetCode #561](https://leetcode.com/problems/array-partition-i/))
 - Find All Duplicates in an Array ([LeetCode #442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)) ✅
-- Merge Intervals ([LeetCode #56](https://leetcode.com/problems/merge-intervals/))
+- Merge Intervals ([LeetCode #56](https://leetcode.com/problems/merge-intervals/)) ✅
 - Container With Most Water ([LeetCode #11](https://leetcode.com/problems/container-with-most-water/)) ✅
 - Longest Consecutive Sequence ([LeetCode #128](https://leetcode.com/problems/longest-consecutive-sequence/)) ✅
 - Kth Largest Element in an Array ([LeetCode #215](https://leetcode.com/problems/kth-largest-element-in-an-array/)) ✅

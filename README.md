@@ -1,4 +1,4 @@
-Arrays:  (34/56)
+Arrays:  (35/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -35,7 +35,8 @@ Arrays:  (34/56)
 - **maxArea - L11**
 - **merge - L56***
 - - **subarraySum_brute - L560**
-- **subarraySum_efficient - L560**
+- **subarraySum_efficient - L560***
+- **minSubArrayLen - L209***
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

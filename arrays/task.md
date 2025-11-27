@@ -28,7 +28,7 @@
 - Subarray Sum Equals K ([LeetCode #560](https://leetcode.com/problems/subarray-sum-equals-k/)) ✅
 - Minimum Size Subarray Sum ([LeetCode #209](https://leetcode.com/problems/minimum-size-subarray-sum/)) ✅
 - Product of Array Except Self ([LeetCode #238](https://leetcode.com/problems/product-of-array-except-self/)) ✅
-- Subarrays with Product Less Than K ([LeetCode #713](https://leetcode.com/problems/subarray-product-less-than-k/))
+- Subarrays with Product Less Than K ([LeetCode #713](https://leetcode.com/problems/subarray-product-less-than-k/)) ✅
 - 3Sum ([LeetCode #15](https://leetcode.com/problems/3sum/)) ✅
 - 3Sum Closest ([LeetCode #16](https://leetcode.com/problems/3sum-closest/))
 - 4Sum ([LeetCode #18](https://leetcode.com/problems/4sum/))

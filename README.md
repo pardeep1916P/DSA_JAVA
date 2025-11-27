@@ -1,4 +1,4 @@
-Arrays:  (35/56)
+Arrays:  (36/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -37,6 +37,7 @@ Arrays:  (35/56)
 - - **subarraySum_brute - L560**
 - **subarraySum_efficient - L560***
 - **minSubArrayLen - L209***
+- **numSubarrayProductLessThanK - L713**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

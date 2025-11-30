@@ -31,7 +31,7 @@
 - Subarrays with Product Less Than K ([LeetCode #713](https://leetcode.com/problems/subarray-product-less-than-k/)) ✅
 - 3Sum ([LeetCode #15](https://leetcode.com/problems/3sum/)) ✅
 - 3Sum Closest ([LeetCode #16](https://leetcode.com/problems/3sum-closest/)) ✅
-- 4Sum ([LeetCode #18](https://leetcode.com/problems/4sum/))
+- 4Sum ([LeetCode #18](https://leetcode.com/problems/4sum/)) ✅
 - Sort Colors ([LeetCode #75](https://leetcode.com/problems/sort-colors/)) ✅
 - Partition Array / Array Partition I ([LeetCode #561](https://leetcode.com/problems/array-partition-i/))
 - Find All Duplicates in an Array ([LeetCode #442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)) ✅

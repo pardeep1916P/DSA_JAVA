@@ -40,7 +40,8 @@ Arrays:  (39/56)
 - **numSubarrayProductLessThanK - L713**
 - **threeSumClosest - L16***
 - **fourSum - L18***
-- **arrayPairSum_secondOptimal - L561**
+-  - **arrayPairSum_secondOptimal - L561**
+- **arrayPairSum_optimal - L561**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

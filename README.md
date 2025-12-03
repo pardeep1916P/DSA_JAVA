@@ -1,4 +1,4 @@
-Arrays:  (39/56)
+Arrays:  (40/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -42,6 +42,7 @@ Arrays:  (39/56)
 - **fourSum - L18***
 -  - **arrayPairSum_secondOptimal - L561**
 - **arrayPairSum_optimal - L561**
+- **findMedianSortedArrays_mySolution - L4**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

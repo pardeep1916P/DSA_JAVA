@@ -42,7 +42,8 @@ Arrays:  (41/56)
 - **fourSum - L18***
 -  - **arrayPairSum_secondOptimal - L561**
 - **arrayPairSum_optimal - L561**
-- **findMedianSortedArrays_mySolution - L4**
+- - **findMedianSortedArrays_mySolution - L4**
+- **findMedianSortedArrays_optimal - L4***
 - **firstMissingPositive_mySolution - L41**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)

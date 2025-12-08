@@ -64,4 +64,4 @@
 - Search in Rotated Sorted Array ([LeetCode #33](https://leetcode.com/problems/search-in-rotated-sorted-array/))
 - Search in Rotated Sorted Array II ([LeetCode #81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/))
 - Kth Smallest Pair Distance ([LeetCode #719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/))
-- First Missing Positive ([LeetCode #41](https://leetcode.com/problems/first-missing-positive/))  ✅
+- First Missing Positive ([LeetCode #41](https://leetcode.com/problems/first-missing-positive/))  ✅ ✅

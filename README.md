@@ -1,4 +1,4 @@
-Arrays:  (41/56)
+Arrays:  (42/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -46,6 +46,7 @@ Arrays:  (41/56)
 - **findMedianSortedArrays_optimal - L4***
 - - **firstMissingPositive_mySolution - L41**
 - **firstMissingPositive_optimal - L41***
+- - **search_mySolution - L33**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

@@ -47,6 +47,7 @@ Arrays:  (42/56)
 - - **firstMissingPositive_mySolution - L41**
 - **firstMissingPositive_optimal - L41***
 - - **search_mySolution - L33**
+- **search_optimal - L33**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

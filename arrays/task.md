@@ -50,7 +50,7 @@
 
 ## HARD
 - Trapping Rain Water ([LeetCode #42](https://leetcode.com/problems/trapping-rain-water/))
-- Sliding Window Maximum ([LeetCode #239](https://leetcode.com/problems/sliding-window-maximum/))
+- Sliding Window Maximum ([LeetCode #239](https://leetcode.com/problems/sliding-window-maximum/)) ✅
 - Sliding Window Median ([LeetCode #480](https://leetcode.com/problems/sliding-window-median/))
 - Minimum Window Subsequence ([LeetCode #727](https://leetcode.com/problems/minimum-window-subsequence/))
 - Shortest Subarray with Sum at Least K ([LeetCode #862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)) 

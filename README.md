@@ -1,4 +1,4 @@
-Arrays:  (44/56)
+Arrays:  (45/56)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -50,6 +50,7 @@ Arrays:  (44/56)
 - **search_optimal - L33**
 - **maxSlidingWindow_optimal - L239***
 - **arrayManipulation - HR**
+- **trap_secondOptimal - L42**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

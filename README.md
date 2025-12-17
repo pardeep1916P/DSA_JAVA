@@ -51,6 +51,7 @@ Arrays:  (45/56)
 - **maxSlidingWindow_optimal - L239***
 - **arrayManipulation - HR**
 - **trap_secondOptimal - L42**
+- **trap_Optimal - L42**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

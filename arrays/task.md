@@ -62,6 +62,6 @@
 - Find Median from Data Stream ([LeetCode #295](https://leetcode.com/problems/find-median-from-data-stream/))
 - Range Sum Query - Mutable ([LeetCode #307](https://leetcode.com/problems/range-sum-query-mutable/))
 - Search in Rotated Sorted Array ([LeetCode #33](https://leetcode.com/problems/search-in-rotated-sorted-array/)) ✅ ✅
-- Search in Rotated Sorted Array II ([LeetCode #81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)) 
+- Search in Rotated Sorted Array II ([LeetCode #81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)) ✅ ✅
 - Kth Smallest Pair Distance ([LeetCode #719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/))
 - First Missing Positive ([LeetCode #41](https://leetcode.com/problems/first-missing-positive/))  ✅ ✅

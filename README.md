@@ -52,7 +52,8 @@ Arrays:  (46/56)
 - **arrayManipulation - HR**
 - **trap_secondOptimal - L42**
 - **trap_Optimal - L42**
-- **searchII_mySolution - L81**
+- - **searchII_mySolution - L81**
+- **searchII_optimal - L81**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

@@ -57,7 +57,7 @@
 - Count of Range Sum ([LeetCode #327](https://leetcode.com/problems/count-of-range-sum/))
 - Maximum Gap ([LeetCode #164](https://leetcode.com/problems/maximum-gap/))
 - Find k Pairs with Largest Sums ([LeetCode #373](https://leetcode.com/problems/find-k-pairs-with-largest-sums/))
-- Merge k Sorted Lists ([LeetCode #23](https://leetcode.com/problems/merge-k-sorted-lists/))
+- Best Time to Buy and Sell Stock IV ([LeetCode #188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/))
 - Median of Two Sorted Arrays ([LeetCode #4](https://leetcode.com/problems/median-of-two-sorted-arrays/)) ✅ ✅
 - Find Median from Data Stream ([LeetCode #295](https://leetcode.com/problems/find-median-from-data-stream/))
 - Range Sum Query - Mutable ([LeetCode #307](https://leetcode.com/problems/range-sum-query-mutable/))

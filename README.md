@@ -55,6 +55,7 @@ Arrays:  (47/56)
 - - **searchII_mySolution - L81**
 - **searchII_optimal - L81**
 - - **maximumGap_mySolution - L164**
+- **maximumGap_optimal - L164***
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

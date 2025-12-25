@@ -51,8 +51,8 @@
 ## HARD
 - Trapping Rain Water ([LeetCode #42](https://leetcode.com/problems/trapping-rain-water/)) ✅ ✅
 - Sliding Window Maximum ([LeetCode #239](https://leetcode.com/problems/sliding-window-maximum/)) ✅
-- Sliding Window Median ([LeetCode #480](cdhttps://leetcode.com/problems/sliding-window-median/))
-- Minimum Window Subsequence ([LeetCode #727](https://leetcode.com/problems/minimum-window-subsequence/))
+- Sliding Window Median ([LeetCode #480](https://leetcode.com/problems/sliding-window-median/))
+- Best Time to Buy and Sell Stock III ([LeetCode #123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/))
 - Shortest Subarray with Sum at Least K ([LeetCode #862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)) 
 - Count of Range Sum ([LeetCode #327](https://leetcode.com/problems/count-of-range-sum/))
 - Maximum Gap ([LeetCode #164](https://leetcode.com/problems/maximum-gap/)) ✅ ✅

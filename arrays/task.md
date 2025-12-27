@@ -44,6 +44,7 @@
 - Majority Element II ([LeetCode #229](https://leetcode.com/problems/majority-element-ii/)) ✅
 - Best Time to Buy and Sell Stock II ([LeetCode #122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)) ✅
 - Search Insert Position ([LeetCode #35](https://leetcode.com/problems/search-insert-position/)) ✅
+- Top K Frequent Elements ([LeetCode #347](https://leetcode.com/problems/top-k-frequent-elements/description/)) ✅
 - Array Manipulation ([HackerRank](https://www.hackerrank.com/challenges/crush/problem)) ✅
 
 ---

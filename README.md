@@ -1,4 +1,4 @@
-Arrays:  (50/56)
+Arrays:  (51/57)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -59,6 +59,7 @@ Arrays:  (50/56)
 - **rangeSum_optimal - L307***
 - **kSmallestPairs - L373***
 - **maxProfit - L123***
+- **topKFrequent_mySolution - L347**
 
 LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**

@@ -5,7 +5,7 @@
 ### Basic String Manipulation
 - Super Reduced String ([HackerRank](https://www.hackerrank.com/challenges/reduced-string/problem))
 - CamelCase ([HackerRank](https://www.hackerrank.com/challenges/camelcase/problem))
-- Reverse String ([LeetCode #344](https://leetcode.com/problems/reverse-string/))
+- Reverse String ([LeetCode #344](https://leetcode.com/problems/reverse-string/)) ✅
 - Reverse String II ([LeetCode #541](https://leetcode.com/problems/reverse-string-ii/))
 - Reverse Words in a String III ([LeetCode #557](https://leetcode.com/problems/reverse-words-in-a-string-iii/))
 - Reverse Vowels of a String ([LeetCode #345](https://leetcode.com/problems/reverse-vowels-of-a-string/))

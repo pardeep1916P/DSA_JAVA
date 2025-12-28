@@ -1,4 +1,8 @@
-Arrays:  (51/57)
+## Strings: (01/110)
+- **reverseString_mySolution - L344**
+
+
+## Arrays:  (51/57)
 - **reverseArray - HR** 
 - **rotateLeft - HR**
 - **thirdMax - L414**
@@ -61,7 +65,7 @@ Arrays:  (51/57)
 - **maxProfit - L123***
 - **topKFrequent_mySolution - L347**
 
-LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
+## LinkedList:(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
 - **printLinkedList - HR**
 - **insertNodeAtTail - HR**
 - **insertNodeAtHead - HR**

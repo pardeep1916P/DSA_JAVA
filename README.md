@@ -1,5 +1,6 @@
-## Strings: (01/110)
-- **reverseString_mySolution - L344**
+## Strings: (02/110)
+- **reverseString - L344**
+- **reverseStringII - L541**
 
 
 ## Arrays:  (51/57)

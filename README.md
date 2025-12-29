@@ -1,7 +1,8 @@
-## Strings: (03/110)
+## Strings: (04/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
+- **reverseVowels - L345**
 
 
 ## Arrays:  (51/57)

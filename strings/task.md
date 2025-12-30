@@ -9,8 +9,8 @@
 - Reverse String II ([LeetCode #541](https://leetcode.com/problems/reverse-string-ii/)) ✅
 - Reverse Words in a String III ([LeetCode #557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)) ✅
 - Reverse Vowels of a String ([LeetCode #345](https://leetcode.com/problems/reverse-vowels-of-a-string/)) ✅
-- To Lower Case ([LeetCode #709](https://leetcode.com/problems/to-lower-case/)) ✅
-- Length of Last Word ([LeetCode #58](https://leetcode.com/problems/length-of-last-word/)) 
+- To Lower Case ([LeetCode #709](https://leetcode.com/problems/to-lower-case/)) ✅ ✅
+- Length of Last Word ([LeetCode #58](https://leetcode.com/problems/length-of-last-word/)) ✅
 
 ### Palindrome Series
 - Palindrome Index ([HackerRank](https://www.hackerrank.com/challenges/palindrome-index/problem))

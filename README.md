@@ -1,4 +1,4 @@
-## Strings: (06/110)
+## Strings: (07/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -6,7 +6,7 @@
 - **toLowerCase_mySolution - L709**
 - **toLowerCase_optimal - L709**
 - **lengthOfLastWord - L58**
-
+- **camelCase - HR**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

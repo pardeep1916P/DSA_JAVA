@@ -1,4 +1,4 @@
-## Strings: (07/110)
+## Strings: (08/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -7,6 +7,7 @@
 - **toLowerCase_optimal - L709**
 - **lengthOfLastWord - L58**
 - **camelCase - HR**
+- **validPalindrome - L125**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

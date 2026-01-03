@@ -20,7 +20,7 @@
 
 ### Anagram Series
 - Anagram ([HackerRank](https://www.hackerrank.com/challenges/anagram/problem))
-- Valid Anagram ([LeetCode #242](https://leetcode.com/problems/valid-anagram/))
+- Valid Anagram ([LeetCode #242](https://leetcode.com/problems/valid-anagram/)) ✅
 
 ### Pattern Matching & Searching
 - Implement strStr() / Find the Index of the First Occurrence ([LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/))

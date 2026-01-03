@@ -16,7 +16,7 @@
 - Palindrome Index ([HackerRank](https://www.hackerrank.com/challenges/palindrome-index/problem))
 - Valid Palindrome ([LeetCode #125](https://leetcode.com/problems/valid-palindrome/)) ✅
 - Valid Palindrome II ([LeetCode #680](https://leetcode.com/problems/valid-palindrome-ii/)) ✅
-- Palindrome Number ([LeetCode #9](https://leetcode.com/problems/palindrome-number/))
+- Palindrome Number ([LeetCode #9](https://leetcode.com/problems/palindrome-number/)) ✅
 
 ### Anagram Series
 - Anagram ([HackerRank](https://www.hackerrank.com/challenges/anagram/problem))

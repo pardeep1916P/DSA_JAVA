@@ -28,7 +28,7 @@
 - Repeated Substring Pattern ([LeetCode #459](https://leetcode.com/problems/repeated-substring-pattern/))
 
 ### Character Frequency & Mapping
-- First Unique Character in a String ([LeetCode #387](https://leetcode.com/problems/first-unique-character-in-a-string/))
+- First Unique Character in a String ([LeetCode #387](https://leetcode.com/problems/first-unique-character-in-a-string/)) ✅
 - Ransom Note ([LeetCode #383](https://leetcode.com/problems/ransom-note/))
 - Isomorphic Strings ([LeetCode #205](https://leetcode.com/problems/isomorphic-strings/))
 - Word Pattern ([LeetCode #290](https://leetcode.com/problems/word-pattern/))

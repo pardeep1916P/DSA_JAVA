@@ -1,4 +1,4 @@
-## Strings: (11/110)
+## Strings: (12/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -11,6 +11,7 @@
 - **validPalindromeII - L680**
 - **isPalindrome - L9**
 - **isAnagram - L242**
+- **firstUniqChar - L387**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

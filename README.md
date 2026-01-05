@@ -1,4 +1,4 @@
-## Strings: (12/110)
+## Strings: (13/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -12,6 +12,8 @@
 - **isPalindrome - L9**
 - **isAnagram - L242**
 - **firstUniqChar - L387**
+- **longestCommonPrefix_optimal1 - L14**
+- **longestCommonPrefix_optimal2 - L14**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

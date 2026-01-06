@@ -1,4 +1,4 @@
-## Strings: (13/110)
+## Strings: (14/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -14,6 +14,8 @@
 - **firstUniqChar - L387**
 - **longestCommonPrefix_optimal1 - L14**
 - **longestCommonPrefix_optimal2 - L14**
+- **strStr_optimal1 - L28**
+- **strStr_optimal2 - L28**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

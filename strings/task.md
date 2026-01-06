@@ -23,7 +23,7 @@
 - Valid Anagram ([LeetCode #242](https://leetcode.com/problems/valid-anagram/)) ✅
 
 ### Pattern Matching & Searching
-- Implement strStr() / Find the Index of the First Occurrence ([LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/))
+- Find the Index of the First Occurrence ([LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)) ✅✅
 - Longest Common Prefix ([LeetCode #14](https://leetcode.com/problems/longest-common-prefix/)) ✅✅
 - Repeated Substring Pattern ([LeetCode #459](https://leetcode.com/problems/repeated-substring-pattern/))
 

@@ -32,7 +32,7 @@
 - Ransom Note ([LeetCode #383](https://leetcode.com/problems/ransom-note/))
 - Isomorphic Strings ([LeetCode #205](https://leetcode.com/problems/isomorphic-strings/))
 - Word Pattern ([LeetCode #290](https://leetcode.com/problems/word-pattern/))
-- Jewels and Stones ([LeetCode #771](https://leetcode.com/problems/jewels-and-stones/))
+- Jewels and Stones ([LeetCode #771](https://leetcode.com/problems/jewels-and-stones/)) ✅
 
 ### String Conversions
 - Add Binary ([LeetCode #67](https://leetcode.com/problems/add-binary/))

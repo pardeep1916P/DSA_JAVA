@@ -1,4 +1,4 @@
-## Strings: (14/110)
+## Strings: (15/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -16,6 +16,7 @@
 - **longestCommonPrefix_optimal2 - L14**
 - **strStr_optimal1 - L28**
 - **strStr_optimal2 - L28**
+- **numJewelsInStones - L771**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

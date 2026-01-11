@@ -1,4 +1,4 @@
-## Strings: (16/110)
+## Strings: (17/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -18,6 +18,7 @@
 - **strStr_optimal2 - L28**
 - **numJewelsInStones - L771**
 - **isIsomorphic - L205**
+- **anagram_hr - HR**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

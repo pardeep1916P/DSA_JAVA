@@ -19,7 +19,7 @@
 - Palindrome Number ([LeetCode #9](https://leetcode.com/problems/palindrome-number/)) ✅
 
 ### Anagram Series
-- Anagram ([HackerRank](https://www.hackerrank.com/challenges/anagram/problem))
+- Anagram ([HackerRank](https://www.hackerrank.com/challenges/anagram/problem)) ✅
 - Valid Anagram ([LeetCode #242](https://leetcode.com/problems/valid-anagram/)) ✅
 
 ### Pattern Matching & Searching

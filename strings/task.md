@@ -25,7 +25,7 @@
 ### Pattern Matching & Searching
 - Find the Index of the First Occurrence ([LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)) ✅✅
 - Longest Common Prefix ([LeetCode #14](https://leetcode.com/problems/longest-common-prefix/)) ✅✅
-- Repeated Substring Pattern ([LeetCode #459](https://leetcode.com/problems/repeated-substring-pattern/))
+- Repeated Substring Pattern ([LeetCode #459](https://leetcode.com/problems/repeated-substring-pattern/)) ✅
 
 ### Character Frequency & Mapping
 - First Unique Character in a String ([LeetCode #387](https://leetcode.com/problems/first-unique-character-in-a-string/)) ✅

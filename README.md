@@ -1,4 +1,4 @@
-## Strings: (17/110)
+## Strings: (18/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -19,6 +19,7 @@
 - **numJewelsInStones - L771**
 - **isIsomorphic - L205**
 - **anagram_hr - HR**
+- **repeatedSubstringPattern - L459**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

@@ -1,4 +1,4 @@
-## Strings: (18/110)
+## Strings: (19/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -20,6 +20,8 @@
 - **isIsomorphic - L205**
 - **anagram_hr - HR**
 - **repeatedSubstringPattern - L459**
+- **canConstruct_mySolution - L383**
+- **canConstruct_optimal - L383**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

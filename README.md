@@ -1,4 +1,4 @@
-## Strings: (19/110)
+## Strings: (20/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -22,6 +22,8 @@
 - **repeatedSubstringPattern - L459**
 - **canConstruct_mySolution - L383**
 - **canConstruct_optimal - L383**
+- **wordPattern_mySolution - L290**
+- **wordPattern_optimal - L290**
 
 ## Arrays:  (51/57)
 - **reverseArray - HR** 

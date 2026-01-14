@@ -89,36 +89,41 @@
 - **maxProfit - L123***
 - **topKFrequent_mySolution - L347**
 
-## LinkedList:(28/30)(constructor,append,prepend,removeFirst,removeLast,get,set,insert,remove)
-- **printLinkedList - HR**
-- **insertNodeAtTail - HR**
-- **insertNodeAtHead - HR**
-- **reversePrint - HR**
-- **reverse - HR**
-- **getNode - HR**
-- **insertNodeAtPosition - HR**
-- **removeDuplicates - HR**
-- **removeNode - HR**
-- **RemoveDuplicatesSortedList - L83**
-- **removeElements - L203**
-- **mergeTwoLists - L21**
-- **isPalindrome - L234**
-- **reverseList - L206**
-- **removeDuplicatesUnsorted - L1836**
-- **LinkedListCycle - L141**
-- **getIntersectionNode - L160**
-- **oddEvenList - L328**
-- **deleteNode - L237**
-- **removeNthFromEnd - L19**
-- **getIntersectionNode_effecient - L160**
-- **addTwoNumbers - L2**
-- **splitListToParts - L725**
-- **reverseKGroup - L25**
-- **copyRandomList - L138**
-- **LRUCache - L146**
-- **flatten - L430**
-- **sortList - L148**
-- **mergeKLists - L23**
-- **mergeKLists_recursion - L23**
-- **detectCycle - L142**
-- **reorderList - L143**
+## LinkedList: (28/30)
+
+**Concepts:** [LinkedList.java](ll/concept/LinkedList.java) | [constructor](ll/concept/constructor.png) | [append](ll/concept/append.png) | [prepend](ll/concept/prepend.png) | [removeFirst](ll/concept/removeFirst.png) | [removeLast](ll/concept/removeLast.png) | [get](ll/concept/get.png) | [set](ll/concept/set.png) | [insert](ll/concept/insert.png) | [remove](ll/concept/remove.png)
+
+| # | Problem | Platform | Solution | Submission |
+|---|---------|----------|----------|------------|
+| 1 | printLinkedList | HR | [Solution](ll/problems/printLinkedList.java) | [Submission](ll/problems/printLinkedList.png) |
+| 2 | insertNodeAtTail | HR | [Solution](ll/problems/insertNodeAtTail.java) | [Submission](ll/problems/insertNodeAtTail.png) |
+| 3 | insertNodeAtHead | HR | [Solution](ll/problems/insertNodeAtHead.java) | [Submission](ll/problems/insertNodeAtHea.png) |
+| 4 | reversePrint | HR | [Solution](ll/problems/reversePrint.java) | [Submission](ll/problems/reversePrint.png) |
+| 5 | reverse | HR | [Solution](ll/problems/reverse.java) | [Submission](ll/problems/reverse.png) |
+| 6 | getNode | HR | [Solution](ll/problems/getNode.java) | [Submission](ll/problems/getNode.png) |
+| 7 | insertNodeAtPosition | HR | [Solution](ll/problems/insertNodeAtPosition.java) | [Submission](ll/problems/insertNodeAtPosition.png) |
+| 8 | removeDuplicates | HR | [Solution](ll/problems/removeDuplicates.java) | [Submission](ll/problems/removeDuplicates.png) |
+| 9 | deleteNode | HR | [Solution](ll/problems/deleteNode.java) | [Submission](ll/problems/deleteNode.png) |
+| 10 | RemoveDuplicatesSortedList | L83 | [Solution](ll/problems/RemoveDuplicatesSortedList.java) | [Submission](ll/problems/RemoveDuplicatesSortedList.png) |
+| 11 | removeElements | L203 | [Solution](ll/problems/removeElements.java) | [Submission](ll/problems/removeElements.png) |
+| 12 | mergeTwoLists | L21 | [Solution](ll/problems/mergeTwoLists.java) | [Submission](ll/problems/mergeTwoLists.png) |
+| 13 | isPalindrome | L234 | [Solution](ll/problems/isPalindrome.java) | [Submission](ll/problems/isPalindrome.png) |
+| 14 | reverseList | L206 | [Solution](ll/problems/reverse_206.java) | [Submission](ll/problems/reverse_206.png) |
+| 15 | removeDuplicatesUnsorted | L1836 | [Solution](ll/problems/removeDuplicatesUnsorted.java) | [Submission](ll/problems/removeDuplicatesUnsorted.png) |
+| 16 | hasCycle | L141 | [Solution](ll/problems/hasCycle.java) | [Submission](ll/problems/hasCycle.png) |
+| 17 | getIntersectionNode | L160 | [Solution](ll/problems/getIntersectionNode.java) | [Submission](ll/problems/getIntersectionNode.png) |
+| 18 | oddEvenList | L328 | [Solution](ll/problems/oddEvenList.java) | [Submission](ll/problems/oddEvenList.png) |
+| 19 | deleteNode | L237 | [Solution](ll/problems/deleteNode_237.java) | [Submission](ll/problems/deleteNode_237.png) |
+| 20 | removeNthFromEnd | L19 | [Solution](ll/problems/removeNthFromEnd.java) | [Submission](ll/problems/removeNthFromEnd.png) |
+| 21 | getIntersectionNode_effecient | L160 | [Solution](ll/problems/getIntersectionNode_effecient.java) | [Submission](ll/problems/getIntersectionNode_effecient.png) |
+| 22 | addTwoNumbers | L2 | [Solution](ll/problems/addTwoNumbers.java) | [Submission](ll/problems/addTwoNumbers.png) |
+| 23 | splitListToParts | L725 | [Solution](ll/problems/splitListToParts.java) | [Submission](ll/problems/splitListToParts.png) |
+| 24 | reverseKGroup | L25 | [Solution](ll/problems/reverseKGroup.java) | [Submission](ll/problems/reverseKGroup.png) |
+| 25 | copyRandomList | L138 | [Solution](ll/problems/copyRandomList.java) | [Submission](ll/problems/copyRandomList.png) |
+| 26 | LRUCache | L146 | [Solution](ll/problems/LRUCache.java) | [Submission](ll/problems/LRUCache.png) |
+| 27 | flatten | L430 | [Solution](ll/problems/flatten.java) | [Submission](ll/problems/flatten.png) |
+| 28 | sortList | L148 | [Solution](ll/problems/sortList.java) | [Submission](ll/problems/sortList.png) |
+| 29 | mergeKLists | L23 | [Solution](ll/problems/mergeKLists.java) | [Submission](ll/problems/mergeKLists.png) |
+| 30 | mergeKLists_recursion | L23 | [Solution](ll/problems/mergeKLists_recursion.java) | [Submission](ll/problems/mergeKLists_recursion.png) |
+| 31 | detectCycle | L142 | [Solution](ll/problems/detectCycle.java) | [Submission](ll/problems/detectCycle.png) |
+| 32 | reorderList | L143 | [Solution](ll/problems/reorderList.java) | [Submission](ll/problems/reorderList.png) |

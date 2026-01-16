@@ -35,8 +35,8 @@
 - Jewels and Stones ([LeetCode #771](https://leetcode.com/problems/jewels-and-stones/)) ✅
 
 ### String Conversions
-- Add Binary ([LeetCode #67](https://leetcode.com/problems/add-binary/))
-- Add Strings ([LeetCode #415](https://leetcode.com/problems/add-strings/))
+- Add Binary ([LeetCode #67](https://leetcode.com/problems/add-binary/)) 
+- Add Strings ([LeetCode #415](https://leetcode.com/problems/add-strings/)) ✅✅
 - Roman to Integer ([LeetCode #13](https://leetcode.com/problems/roman-to-integer/)) ✅
 
 ### Subsequence Problems

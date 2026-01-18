@@ -1,4 +1,4 @@
-## Strings: (23/110)
+## Strings: (24/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -28,6 +28,8 @@
 - **addStrings_secondOptimal - L415**
 - **addStrings_optimal - L415**
 - **addBinary - L67**
+- **isSubsequence_mySolution - L392**
+- **isSubsequence_optimal - L392**
 
 ## Arrays: (51/57)
 

@@ -40,7 +40,7 @@
 - Roman to Integer ([LeetCode #13](https://leetcode.com/problems/roman-to-integer/)) ✅
 
 ### Subsequence Problems
-- Is Subsequence ([LeetCode #392](https://leetcode.com/problems/is-subsequence/))
+- Is Subsequence ([LeetCode #392](https://leetcode.com/problems/is-subsequence/)) ✅✅
 
 ### Other Easy Problems
 - Defanging an IP Address ([LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/))

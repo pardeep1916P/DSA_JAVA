@@ -43,7 +43,7 @@
 - Is Subsequence ([LeetCode #392](https://leetcode.com/problems/is-subsequence/)) ✅✅
 
 ### Other Easy Problems
-- Defanging an IP Address ([LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/))
+- Defanging an IP Address ([LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/)) ✅✅
 - Split a String in Balanced Strings ([LeetCode #1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/))
 - Shuffle String ([LeetCode #1528](https://leetcode.com/problems/shuffle-string/))
 - Goal Parser Interpretation ([LeetCode #1678](https://leetcode.com/problems/goal-parser-interpretation/))

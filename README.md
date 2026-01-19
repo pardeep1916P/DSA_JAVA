@@ -1,4 +1,4 @@
-## Strings: (25/110)
+## Strings: (26/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -32,6 +32,7 @@
 - **isSubsequence_optimal - L392**
 - **defangIPaddr_optimal1 - L1108**
 - **defangIPaddr_optimal2 - L1108**
+- **balancedStringSplit - L1221**
 
 ## Arrays: (51/57)
 

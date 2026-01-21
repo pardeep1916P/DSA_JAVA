@@ -1,4 +1,4 @@
-## Strings: (28/110)
+## Strings: (29/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -35,6 +35,7 @@
 - **balancedStringSplit - L1221**
 - **restoreString - L1528**
 - **arrayStringsAreEqual_optimal2 - L1662**
+- **interpret - L1678**
 
 ## Arrays: (51/57)
 

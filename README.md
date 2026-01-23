@@ -1,4 +1,4 @@
-## Strings: (29/110)
+## Strings: (30/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -36,6 +36,8 @@
 - **restoreString - L1528**
 - **arrayStringsAreEqual_optimal2 - L1662**
 - **interpret - L1678**
+- **lengthOfLongestSubstring_mySolution - L3**
+- **lengthOfLongestSubstring_optimal - L3**
 
 ## Arrays: (51/57)
 

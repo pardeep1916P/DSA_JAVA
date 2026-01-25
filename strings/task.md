@@ -57,7 +57,7 @@
 - Special String Again ([HackerRank](https://www.hackerrank.com/challenges/special-palindrome-again/problem))
 - Longest Substring Without Repeating Characters ([LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)) ✅✅
 - Longest Repeating Character Replacement ([LeetCode #424](https://leetcode.com/problems/longest-repeating-character-replacement/))
-- Minimum Window Substring ([LeetCode #76](https://leetcode.com/problems/minimum-window-substring/))
+- Minimum Window Substring ([LeetCode #76](https://leetcode.com/problems/minimum-window-substring/)) ✅
 - Permutation in String ([LeetCode #567](https://leetcode.com/problems/permutation-in-string/)) ✅
 
 ### Palindrome Series

@@ -61,7 +61,7 @@
 - Permutation in String ([LeetCode #567](https://leetcode.com/problems/permutation-in-string/)) ✅
 
 ### Palindrome Series
-- Longest Palindromic Substring ([LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/))
+- Longest Palindromic Substring ([LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/)) ✅
 - Palindromic Substrings ([LeetCode #647](https://leetcode.com/problems/palindromic-substrings/)) ✅
 - Palindrome Partitioning ([LeetCode #131](https://leetcode.com/problems/palindrome-partitioning/))
 - Longest Palindromic Subsequence ([LeetCode #516](https://leetcode.com/problems/longest-palindromic-subsequence/))

@@ -1,4 +1,4 @@
-## Strings: (33/110)
+## Strings: (34/110)
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**
@@ -41,6 +41,7 @@
 - **checkInclusion - L567**
 - **characterReplacement - L424***
 - **countSubstrings - L647***
+- **longestPalindrome_optimal1 - L5**
 
 ## Arrays: (51/57)
 

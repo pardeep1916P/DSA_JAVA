@@ -1,4 +1,5 @@
-## Strings: (34/110)
+## Strings: (35/110)
+- **superReducedString - HR**
 - **reverseString - L344**
 - **reverseStringII - L541**
 - **reverseStringIII - L557**

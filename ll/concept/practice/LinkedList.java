@@ -15,11 +15,25 @@ public class LinkedList {
 
     public void printList(){
         Node temp = head;
+        System.out.println();
         while(temp!=null){
             if(temp != head) System.out.print("->");
             System.out.print(temp.value);
             temp = temp.next;
         }
+    }
+
+    public boolean append(int value){
+        Node newNode = new Node(value);
+        if(head==null){
+            head = newNode;
+            tail = newNode;
+        }else{
+            tail.next = newNode;
+            tail = newNode;
+        }
+        length++;
+        return true;
     }
 
 }

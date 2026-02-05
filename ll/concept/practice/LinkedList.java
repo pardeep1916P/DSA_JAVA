@@ -36,4 +36,19 @@ public class LinkedList {
         return true;
     }
 
+    public boolean prepend(int value){
+        Node newNode = new Node(value);
+        if(head == null){
+            head = newNode;
+            tail = newNode;
+        }
+        else{
+            newNode.next = head;
+            head = newNode;
+        }
+        length++;
+        return true;
+
+    }
+
 }

@@ -16,11 +16,12 @@ public class LinkedList {
     public void printList(){
         Node temp = head;
         System.out.println();
-        while(temp!=null){
-            if(temp != head) System.out.print("->");
+        while(temp!=null) {
+            if (temp != head) System.out.print("->");
             System.out.print(temp.value);
             temp = temp.next;
         }
+        System.out.println();
     }
 
     public boolean append(int value){
@@ -49,6 +50,27 @@ public class LinkedList {
         length++;
         return true;
 
+    }
+
+    public Node get(int index){
+        if(index<0 || index>length) return null;
+        Node temp = head;
+        for(int i=0; i<index; i++) temp = temp.next;
+        return temp;
+    }
+
+    public boolean insert(int index, int value){
+        if(index<0 || index>length) return false;
+        else if(index == 0) return prepend(value);
+        else if(index == length) return append(value);
+        else{
+            Node newNode = new Node(value);
+            Node temp = get(index-1);
+            newNode.next = temp.next;
+            temp.next = newNode;
+            length++;
+        }
+        return true;
     }
 
 }

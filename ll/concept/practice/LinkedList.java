@@ -23,6 +23,23 @@ public class LinkedList {
         }
     }
 
+    public void getHead(){
+        System.out.println();
+        if(head == null) System.out.print("null");
+        else System.out.print("HEAD->"+ head.value);
+    }
+
+    public void getTail(){
+        System.out.println();
+        if(tail == null) System.out.print("null");
+        else System.out.print("TAIL->"+ tail.value);
+    }
+
+    public void getLength(){
+        System.out.println();
+        System.out.print("LENGTH->"+length);
+    }
+
     public boolean append(int value){
         Node newNode = new Node(value);
         if(head==null){

@@ -21,7 +21,6 @@ public class LinkedList {
             System.out.print(temp.value);
             temp = temp.next;
         }
-        System.out.println();
     }
 
     public boolean append(int value){
@@ -81,6 +80,26 @@ public class LinkedList {
         length--;
         if(head == null) tail = null;
         return temp;
+    }
+
+    public Node removeLast(){
+        if(head == null) return null;
+        Node pre = head;
+        Node temp = head;
+
+        while(temp.next!=null){
+            pre = temp;
+            temp = temp.next;
+        }
+        tail = pre;
+        tail.next = null;
+        length--;
+        if(length == 0){
+            head = null;
+            tail = null;
+        }
+        return temp;
+
     }
 
 }

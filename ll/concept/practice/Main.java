@@ -9,9 +9,12 @@ public class Main {
 
         ll1.prepend(20);
         ll1.prepend(10);
-        ll1.printList();
-        System.out.print(ll1.get(2).value);
         ll1.insert(1,99);
         ll1.printList();
+        ll1.removeFirst();
+        ll1.printList();
+        ll1.removeFirst();
+        ll1.printList();
+
     }
 }

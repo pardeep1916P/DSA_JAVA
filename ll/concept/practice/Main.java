@@ -10,17 +10,12 @@ public class Main {
         ll1.prepend(10);
 
         ll1.printList();
-        ll1.getHead();
-        ll1.getTail();
-        ll1.getLength();
-
-        ll1.removeFirst();
-        ll1.removeLast();
         System.out.println();
+        System.out.println("update 30->40 : "+ll1.set(2,40));
         ll1.printList();
-        ll1.getHead();
-        ll1.getTail();
-        ll1.getLength();
+        System.out.println();
+        System.out.println("out of bounds testing : "+ll1.set(3,12));
+        ll1.printList();
 
     }
 }

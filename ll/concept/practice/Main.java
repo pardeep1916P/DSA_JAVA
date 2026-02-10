@@ -11,10 +11,7 @@ public class Main {
 
         ll1.printList();
         System.out.println();
-        System.out.println("update 30->40 : "+ll1.set(2,40));
-        ll1.printList();
-        System.out.println();
-        System.out.println("out of bounds testing : "+ll1.set(3,12));
+        System.out.print("removed Node : "+ ll1.remove(1).value);
         ll1.printList();
 
     }

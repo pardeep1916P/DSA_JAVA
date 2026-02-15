@@ -6,7 +6,7 @@
 - **reverseVowels - L345**
 - **toLowerCase_mySolution - L709**
 - **toLowerCase_optimal - L709**
-- **lengthOfLastWord - L58**
+- **lengthOfLastWord - L58**z
 - **camelCase - HR**
 - **validPalindrome - L125**
 - **validPalindromeII - L680**
@@ -44,7 +44,7 @@
 - **countSubstrings - L647***
 - **longestPalindrome_optimal1 - L5**
 
-## Arrays: (51/57)
+## Arrays: (52/58)
 
 <table>
 <thead>
@@ -118,6 +118,7 @@
 <tr><td>59</td><td>kSmallestPairs</td><td>L373</td><td><a href="arrays/problems/kSmallestPairs.java">Solution</a></td><td><a href="arrays/problems/kSmallestPairs.png">Submission</a></td></tr>
 <tr><td>60</td><td>maxProfitIII</td><td>L123</td><td><a href="arrays/problems/maxProfitIII.java">Solution</a></td><td><a href="arrays/problems/maxProfitIII.png">Submission</a></td></tr>
 <tr><td>61</td><td>topKFrequent_mySolution</td><td>L347</td><td><a href="arrays/problems/topKFrequent_mySolution.java">Solution</a></td><td><a href="arrays/problems/topKFrequent_mySolution.png">Submission</a></td></tr>
+<tr><td>62</td><td>containsNearbyDuplicate</td><td>L219</td><td><a href="arrays/problems/containsNearbyDuplicate.java">Solution</a></td><td><a href="arrays/problems/containsNearbyDuplicate.png">Submission</a></td></tr>
 </tbody>
 </table>
 

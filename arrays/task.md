@@ -21,6 +21,7 @@
 - Rotate Array ([LeetCode #189](https://leetcode.com/problems/rotate-array/)) ✅
 - Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/)) ✅
 - Squares of a Sorted Array ([LeetCode #977](https://leetcode.com/problems/squares-of-a-sorted-array/)) ✅
+- Contains Duplicate II ([LeetCode #219](https://leetcode.com/problems/contains-duplicate-ii/)) ✅
 
 ---
 

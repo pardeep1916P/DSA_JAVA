@@ -1,13 +1,7 @@
 package src.ll.concept;
 
 public class LinkedList{
-    class Node{
-        int value;
-        Node next;
-        Node(int value){
-            this.value = value;
-        }
-    }
+
     private Node head;
     private Node tail;
     private int length;
@@ -185,5 +179,21 @@ public class LinkedList{
         temp.next=null;
         length--;
         return temp;
+    }
+
+    //reverse
+    public void reverse(){
+        Node temp = head;
+        head = tail;
+        tail = temp;
+        Node after = temp.next;
+        Node before = null;
+        while(temp!=null){
+            after = temp.next;
+            temp.next = before;
+            before = temp;
+            temp = after;
+        }
+
     }
 }

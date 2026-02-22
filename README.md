@@ -1,4 +1,4 @@
-## Strings: (35/110)
+## Strings: (36/110)
 - **superReducedString - HR**
 - **reverseString - L344**
 - **reverseStringII - L541**
@@ -43,6 +43,7 @@
 - **characterReplacement - L424***
 - **countSubstrings - L647***
 - **longestPalindrome_optimal1 - L5**
+- **groupAnagrams - L49**
 
 ## Arrays: (52/58)
 

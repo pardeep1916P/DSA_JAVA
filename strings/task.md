@@ -67,7 +67,7 @@
 - Longest Palindromic Subsequence ([LeetCode #516](https://leetcode.com/problems/longest-palindromic-subsequence/))
 
 ### Anagram & Permutation Series
-- Group Anagrams ([LeetCode #49](https://leetcode.com/problems/group-anagrams/))
+- Group Anagrams ([LeetCode #49](https://leetcode.com/problems/group-anagrams/)) ✅
 - Find All Anagrams in a String ([LeetCode #438](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
 
 ### Parentheses Series

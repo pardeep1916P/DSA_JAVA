@@ -68,7 +68,7 @@
 
 ### Anagram & Permutation Series
 - Group Anagrams ([LeetCode #49](https://leetcode.com/problems/group-anagrams/)) ✅
-- Find All Anagrams in a String ([LeetCode #438](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
+- Find All Anagrams in a String ([LeetCode #438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)) ✅
 
 ### Parentheses Series
 - Generate Parentheses ([LeetCode #22](https://leetcode.com/problems/generate-parentheses/))

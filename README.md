@@ -46,7 +46,7 @@
 - **groupAnagrams - L49**
 - **findAnagrams - L438**
 
-## Arrays: (52/58)
+## Arrays: (53/59)
 
 <table>
 <thead>
@@ -121,6 +121,7 @@
 <tr><td>60</td><td>maxProfitIII</td><td>L123</td><td><a href="arrays/problems/maxProfitIII.java">Solution</a></td><td><a href="arrays/problems/maxProfitIII.png">Submission</a></td></tr>
 <tr><td>61</td><td>topKFrequent_mySolution</td><td>L347</td><td><a href="arrays/problems/topKFrequent_mySolution.java">Solution</a></td><td><a href="arrays/problems/topKFrequent_mySolution.png">Submission</a></td></tr>
 <tr><td>62</td><td>containsNearbyDuplicate</td><td>L219</td><td><a href="arrays/problems/containsNearbyDuplicate.java">Solution</a></td><td><a href="arrays/problems/containsNearbyDuplicate.png">Submission</a></td></tr>
+<tr><td>63</td><td>twoSum2</td><td>L167</td><td><a href="arrays/problems/twoSum.java">Solution</a></td><td><a href="arrays/problems/twoSum2.png">Submission</a></td></tr>
 </tbody>
 </table>
 

@@ -72,7 +72,7 @@
 
 ### Parentheses Series
 - Generate Parentheses ([LeetCode #22](https://leetcode.com/problems/generate-parentheses/))
-- Valid Parenthesis String ([LeetCode #678](https://leetcode.com/problems/valid-parenthesis-string/))
+- Valid Parenthesis String ([LeetCode #678](https://leetcode.com/problems/valid-parenthesis-string/)) ✅
 - Minimum Add to Make Parentheses Valid ([LeetCode #921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/))
 - Minimum Remove to Make Valid Parentheses ([LeetCode #1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/))
 - Score of Parentheses ([LeetCode #856](https://leetcode.com/problems/score-of-parentheses/))

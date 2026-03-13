@@ -1,4 +1,4 @@
-## Strings: (37/110)
+## Strings: (38/110)
 - **superReducedString - HR**
 - **reverseString - L344**
 - **reverseStringII - L541**
@@ -45,6 +45,7 @@
 - **longestPalindrome_optimal1 - L5**
 - **groupAnagrams - L49**
 - **findAnagrams - L438**
+- **checkValidString - L678**
 
 ## Arrays: (53/59)
 

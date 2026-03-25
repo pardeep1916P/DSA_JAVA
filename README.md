@@ -1,4 +1,4 @@
-## Strings: (39/110)
+## Strings: (40/110)
 - **superReducedString - HR**
 - **reverseString - L344**
 - **reverseStringII - L541**
@@ -47,6 +47,7 @@
 - **findAnagrams - L438**
 - **checkValidString - L678**
 - **minAddToMakeValid - L921**
+- **scoreOfParentheses - L856**
 
 ## Arrays: (53/59)
 
